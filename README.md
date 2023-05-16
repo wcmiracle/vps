@@ -4,5 +4,6 @@
 用法
 
 '''bash
+
   wget https://raw.githubusercontent.com/wcmiracle/vps/main/vps.sh&& chmod +x vps.sh  && ./vps.sh 
-'''
+
