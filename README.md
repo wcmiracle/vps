@@ -3,6 +3,6 @@
 
 用法
 
-
-  wget https://raw.githubusercontent.com/wcmiracle/vps/main/vps.sh&& chmod +x vps.sh  && ./vps.sh 
+'''bash
+wget https://raw.githubusercontent.com/wcmiracle/vps/main/vps.sh&& chmod +x vps.sh  && ./vps.sh 
 
