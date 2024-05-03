@@ -20,3 +20,6 @@ if [ "$response" -eq 403 ]; then
 else
     echo -e "NetFlix:${GREEN}支持${NC}"
 fi
+
+# 删除脚本文件
+rm "$0"
